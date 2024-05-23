@@ -12,6 +12,10 @@ module.exports = {
         sans: ['Josefin Sans', 'sans-serif'],
         alata: ['Alata']
       },
+      // setting the style tracking-widest HERE
+      letterSpacing: {
+        widest: '.3em'
+      }
     },
   },
   plugins: [],
